@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+!src/BankApp/main/**/out/
+!src/BankApp/test/**/out/
 
 ### Eclipse ###
 .apt_generated
@@ -12,8 +12,8 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+!src/BankApp/main/**/bin/
+!src/BankApp/test/**/bin/
 
 ### NetBeans ###
 /nbproject/private/
